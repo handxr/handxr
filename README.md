@@ -16,7 +16,7 @@ Some reading:
 
 Educational purposes:
 
-Love doing things from scratch to learn how to implement it.
+Love doing things from scratch to learn how things works.
 
 - [JavaScript Transpiler](https://github.com/handxr/educational-javascript-transpiler)
 
