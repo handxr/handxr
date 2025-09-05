@@ -2,6 +2,6 @@
 
 Software Engineer.
 
-I do things. Focus on performance and architecture.
+Focus on architecture and perfomrance.
 
 
