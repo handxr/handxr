@@ -2,6 +2,6 @@
 
 Software Engineer.
 
-Focus on architecture and perfomrance.
+Focus on architecture and performance.
 
 
