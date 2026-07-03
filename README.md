@@ -33,4 +33,4 @@ Love doing things from scratch to learn how things works.
 
 Dotfiles:
 
-- [nvim-setup](https://github.com/handxr/nvim-setup) - My Neovim configuration
+- [neovim](https://github.com/handxr/neovim) - My Neovim configuration
