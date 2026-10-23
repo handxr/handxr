@@ -8,6 +8,7 @@ Focus on architecture and performance.
 
 Open Source:
 
+- [agentproof-kit](https://github.com/handxr/agentproof-kit) - CLI template for sharing agent configuration across Cursor, Claude Code, and Codex
 - [agentproof-ui](https://github.com/handxr/agentproof-ui) - Reference architecture for design systems that AI agents can use correctly
 - [wpmx](https://github.com/handxr/wpmx) - Terminal typing test built with React + Ink
 - [figmx](https://github.com/handxr/figmx) - Turn Figma Make exports into clean React + Vite + Tailwind apps
